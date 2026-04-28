@@ -4,7 +4,8 @@
 ## Overview
 This project demonstrates end-to-end data analytics using SQL by designing a data warehouse, loading structured data, and performing business analysis through exploratory queries, KPI reporting, trend analysis, customer segmentation, and performance reporting.
 
-The goal is to simulate real-world data analyst workflows using SQL for decision-making and business insights.
+The goal is to show how SQL can be used to analyze data, answer business questions, and support better decisions.
+
 
 ---
 
@@ -13,11 +14,11 @@ The goal is to simulate real-world data analyst workflows using SQL for decision
 - T-SQL
 - GitHub
 - CSV Data Sources
-- Power BI / Tableau *(optional for dashboards)*
+
 
 ---
 
-## Project Structure
+## Project Structures 
 
 ```text
 sql-data-analytics-project/
