@@ -119,3 +119,122 @@ Aspiring Data Analyst focused on:
 ![Tableau](https://img.shields.io/badge/Tableau-orange?style=flat-square)
 ![Python](https://img.shields.io/badge/Python-green?style=flat-square)
 
+# 🚀 SQL Data Analytics Project
+
+## 📊 Overview
+
+This project shows my SQL skills through data warehouse creation, data loading, and business analysis.
+
+I used SQL to analyze sales, customers, and products to find trends, measure performance, and support better business decisions.
+
+---
+
+## 🛠️ Tools Used
+
+* SQL
+* SQL Server
+* GitHub
+* CSV Files
+
+---
+
+## 💡 Skills Demonstrated
+
+* Joins
+* CTEs
+* Window Functions
+* Ranking Functions
+* KPI Reporting
+* Trend Analysis
+* Customer Segmentation
+* Business Reporting
+
+---
+
+## 📂 Project Structure
+
+```text
+sql-data-analytics-project/
+├── README.md
+├── scripts/
+├── docs/
+├── dashboards/
+└── assets/
+```
+
+---
+
+## 📈 Key Analysis
+
+### Sales Analysis
+
+* Total sales
+* Monthly trends
+* Running totals
+
+### Customer Analysis
+
+* Top customers
+* Customer segmentation
+* Purchase behavior
+
+### Product Analysis
+
+* Top products
+* Category performance
+* Revenue contribution
+
+---
+
+## 🔍 Business Questions Solved
+
+* Which products generate the most revenue?
+* Who are the top customers?
+* How are sales changing over time?
+* Which categories contribute most to total sales?
+* How can customers be grouped by value?
+
+---
+
+## 🎯 Business Value
+
+This project shows how SQL can help businesses:
+
+* Understand customer behavior
+* Improve product strategy
+* Track sales performance
+* Make better decisions using data
+
+---
+
+## 📁 Main Files
+
+```text
+00_data_warehouse_setup.sql
+01_schema_exploration.sql
+02_dimension_exploration.sql
+03_data_range_exploration.sql
+04_key_metrics_analysis.sql
+05_business_metrics_analysis.sql
+06_top_performers_analysis.sql
+07_sales_trend_analysis.sql
+08_running_total_analysis.sql
+09_product_performance_analysis.sql
+10_customer_product_segmentation.sql
+11_category_sales_contribution.sql
+12_customer_report.sql
+13_product_report.sql
+```
+
+---
+
+## 👩‍💻 About Me
+
+Aspiring Data Analyst focused on SQL, Power BI, Tableau, and Python.
+
+## 📫 Connect With Me
+
+* LinkedIn: Add your link
+* GitHub: Add your link
+* 
+
