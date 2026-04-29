@@ -3,14 +3,15 @@
 
 
 
+# 🚀 SQL Data Analytics Project
 
 ### 📊 Turning raw data into business insights with SQL
 
 [![SQL](https://img.shields.io/badge/SQL-Analytics-blue?style=for-the-badge\&logo=database\&logoColor=white)]()
 [![SQL Server](https://img.shields.io/badge/SQL_Server-Database-red?style=for-the-badge\&logo=microsoftsqlserver\&logoColor=white)]()
-[![Data Analysis](https://img.shields.io/badge/Data-Analy
+[![Data Analysis](https://img.shields.io/badge/Data-Analysis-green?style=for-the-badge)]()
+[![Open To Work](https://img.shields.io/badge/Open-To_Work-success?style=for-the-badge)]()
 
-I 
 ---
 
 ## 📌 Overview
